@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ja" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>スライドショー</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://kit.fontawesome.com/5832121400.js" crossorigin="anonymous"></script>
+  </head>
+  <body>
+    <div class="title">
+      歴代日本人野手メジャーリーガー スライドショー
+    </div>
+    <div class="main">
+      <button type="button" onclick="left()">＜</button>
+      <img src="https://www.waseda.jp/top/assets/uploads/2014/03/hide maro-360x270.jpg">
+      <buttton type="button" onclick="right()">＞</buttton>
+    </div>
+    <div class="control">
+      <button onclick="play()"><i class="fa-solid fa-circle-play"></i></button>
+      <button onclick="stop()"><i class="fa-solid fa-circle-stop"></i></button>
+      <button onclick="reset()"><i class="fa-solid fa-rotate-left"></i></button>
+    </div>
+    <script src="js/slidShow.js"></script>
+  </body>
+</html>
