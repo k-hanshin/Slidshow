@@ -7,7 +7,7 @@ const url = [
 "https://spread-sports.jp/wp/wp-content/uploads/2020/12/1608483603-451645053.jpg",
 "https://full-count.jp/wp-content/uploads/2017/12/20171222_matsui.jpg",
 "https://sportiva.shueisha.co.jp/clm/baseball/npb/2017/images/iguchi20170706.jpg",
-"http://thanks-mlb.com/nori03092.jpg",
+"https://cdn.findfriends.jp/img.sp.baseball/show_img.php?id=45381&contents_id=p_page_097",
 "https://image.news.livedoor.com/newsimage/d/b/dbc7115a52e44f04c606f052aec8aae2.jpg",
 "https://full-count.jp/wp-content/uploads/2016/04/20160426_iwamura.jpg",
 "https://afpbb.ismcdn.jp/mwimgs/b/e/-/img_bec94974bcdb8a989a2c26c44a974451207972.jpg",
